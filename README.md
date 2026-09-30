@@ -1,3 +1,5 @@
+> **Moved.** This starter now lives in [devops-starters/data/redis-cache-aside](https://github.com/DanilaZanin/devops-starters/tree/main/data/redis-cache-aside), with pinned versions, a self-contained Makefile and a test that reproduces the trap it avoids. This repository is archived.
+
 # fastapi-redis-cache
 
 A small `@cached` decorator implementing the cache-aside pattern for async
